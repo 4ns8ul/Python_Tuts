@@ -1,0 +1,3 @@
+from collections import Counter
+X = input()
+shoe_list = map(int, 
